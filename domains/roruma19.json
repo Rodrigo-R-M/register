@@ -1,0 +1,11 @@
+{
+  "description": "Endpoint API de llama-server (Qwen3-Coder) vía Cloudflare Tunnel",
+  "repo": "https://github.com/roruma19/ServerSideKaggleIA",
+  "owner": {
+    "username": "roruma19",
+    "email": "roruma19@gmail.com"
+  },
+  "record": {
+    "CNAME": "TUNNEL-ID.cfargotunnel.com"
+  }
+}
